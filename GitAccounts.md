@@ -1,27 +1,27 @@
-[Bugaian Pavel](https://github.com/PavelBugaian)
-[Ciutac Ștefănița]	
-[Constantinova Carina](https://github.com/konstarina)	
-[Cotelnic Ecaterina](https://github.com/KateCotelnic)	
-[Covaci Adrian-Mihai](https://github.com/adrianncovaci)	
-Coval Dumitru	
-[Delinschi Cristian](https://github.com/cristian-delinschi)	
-[Derevenco Serghei](https://github.com/SergheiDerevenco)
-[Dubenco Alina](https://github.com/alinadubenco)	
-[Galaju Margareta](https://github.com/MargaretaGalaju)
-[Garciu Eugenia](https://github.com/janegarciu)	
-[Leadavschi Vladimir](https://github.com/snowtoslow)
-[Leșco Andrei](https://github.com/whysoserious97)	
-[Loghin Timur](https://github.com/beater13)
-[Osadcenco Alexandru](https://github.com/alexanderosadc)	
-[Pleșca Anișoara](https://github.com/galathinius)
-[Postovan Teodora](https://github.com/TeodoraPostovan)
-[Pricop Alexandru]	
-[Savva Irina](https://github.com/irinasavva7)
-[Șchiopu Cătălin](https://github.com/scatalin1)
-[Țîguliova Tatiana](https://github.com/Tanyatsy)
-[Țugulea Alexa]	       
-[Vainberg Simion]	
-[Vizant Beatrice](https://github.com/DivineBee)
-[Voloșciuc Mihail](https://github.com/VolosciucMihail)	
-[Voloșenco Maxim](https://github.com/Dudar2000)
-[Voroniuc Denis]	       
+1. [Bugaian Pavel](https://github.com/PavelBugaian)
+1. [Ciutac Ștefănița]	
+1. [Constantinova Carina](https://github.com/konstarina)	
+1. [Cotelnic Ecaterina](https://github.com/KateCotelnic)	
+1. [Covaci Adrian-Mihai](https://github.com/adrianncovaci)	
+1. Coval Dumitru	
+1. [Delinschi Cristian](https://github.com/cristian-delinschi)	
+1. [Derevenco Serghei](https://github.com/SergheiDerevenco)
+1. [Dubenco Alina](https://github.com/alinadubenco)	
+1. [Galaju Margareta](https://github.com/MargaretaGalaju)
+1. [Garciu Eugenia](https://github.com/janegarciu)	
+1. [Leadavschi Vladimir](https://github.com/snowtoslow)
+1. [Leșco Andrei](https://github.com/whysoserious97)	
+1. [Loghin Timur](https://github.com/beater13)
+1. [Osadcenco Alexandru](https://github.com/alexanderosadc)	
+1. [Pleșca Anișoara](https://github.com/galathinius)
+1. [Postovan Teodora](https://github.com/TeodoraPostovan)
+1. [Pricop Alexandru]	
+1. [Savva Irina](https://github.com/irinasavva7)
+1. [Șchiopu Cătălin](https://github.com/scatalin1)
+1. [Țîguliova Tatiana](https://github.com/Tanyatsy)
+1. [Țugulea Alexa]	       
+1. [Vainberg Simion]	
+1. [Vizant Beatrice](https://github.com/DivineBee)
+1. [Voloșciuc Mihail](https://github.com/VolosciucMihail)	
+1. [Voloșenco Maxim](https://github.com/Dudar2000)
+1. [Voroniuc Denis]	       
