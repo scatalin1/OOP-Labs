@@ -1,5 +1,5 @@
 1. [Bugaian Pavel](https://github.com/PavelBugaian)
-1. [Ciutac Ștefănița]	(https://github.com/ciutacst)
+1. [Ciutac Ștefănița](https://github.com/ciutacst)
 1. [Constantinova Carina](https://github.com/konstarina)	
 1. [Cotelnic Ecaterina](https://github.com/KateCotelnic)	
 1. [Covaci Adrian-Mihai](https://github.com/adrianncovaci)	
