@@ -20,8 +20,8 @@
 1. [Șchiopu Cătălin](https://github.com/scatalin1)
 1. [Țîguliova Tatiana](https://github.com/Tanyatsy)
 1. [Țugulea Alexa]	       
-1. [Vainberg Simion]	
+1. [Vainberg Simion](https://github.com/Dudar2000)	
 1. [Vizant Beatrice](https://github.com/DivineBee)
 1. [Voloșciuc Mihail](https://github.com/VolosciucMihail)	
-1. [Voloșenco Maxim](https://github.com/Dudar2000)
-1. [Voroniuc Denis]	       
+1. [Voloșenco Maxim](https://github.com/maximvolosenco)
+1. [Voroniuc Denis](https://github.com/dvoroniuc)	       
