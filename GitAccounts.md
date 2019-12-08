@@ -3,7 +3,7 @@
 1. [Constantinova Carina](https://github.com/konstarina)	
 1. [Cotelnic Ecaterina](https://github.com/KateCotelnic)	
 1. [Covaci Adrian-Mihai](https://github.com/adrianncovaci)	
-1. Coval Dumitru	
+1. [Coval Dumitru](https://github.com/Saint-Vice)
 1. [Delinschi Cristian](https://github.com/cristian-delinschi)	
 1. [Derevenco Serghei](https://github.com/SergheiDerevenco)
 1. [Dubenco Alina](https://github.com/alinadubenco)	
